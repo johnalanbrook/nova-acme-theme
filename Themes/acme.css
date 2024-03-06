@@ -1,0 +1,51 @@
+meta {
+    -theme-interface-style: light;
+    -theme-vibrancy: none;
+    -theme-accent-color: false;
+}
+
+/*
+ * Window styles
+ */
+meta.window {
+    background-color:#eaffff;
+    border-color:  #8888CC;
+}
+
+/*
+ * Document styles
+ */
+meta.document {
+    background-color: #ffffea;
+    border-color: #99994C;
+}
+
+/* Text */
+meta.text {
+    color: #000000;
+}
+meta.text.invisible {
+    color: hsla(210, 100%, 90%, 0.15);
+}
+meta.text.selected {
+     color:#aa0000;
+}
+
+/* Cursor */
+meta.cursor {
+    background-color: #aa0000;
+}
+
+/* Indentation Guides */
+meta.indentguide {
+    border-color:  #8888cc;
+}
+
+/* Gutter */
+meta.gutter {
+    color:  #8888cc;
+}
+meta.gutter.selected {
+    background-color: #eeee9e;
+    color: #99994C;
+}

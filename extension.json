@@ -1,0 +1,8 @@
+{
+    "identifier": "org.acme",
+    "name": "acme theme",
+    "organization": "Pockle World",
+    "description": "Tribute to the plan9 acme editor",
+    "version": "1.0",
+    "categories": ["themes"]
+}
